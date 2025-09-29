@@ -1,5 +1,8 @@
 # Number Theory Playground
 
+[![CI](https://github.com/aliyahscoding/number-theory-playground/actions/workflows/ci.yml/badge.svg)](https://github.com/aliyahscoding/number-theory-playground/actions/workflows/ci.yml)
+
+
 Tiny Python CLI for classic number theory utilities: primality testing, gcd/lcm, sieve of Eratosthenes, prime factorization, Fibonacci sequence, and Pascal’s triangle rows.
 
 ## Features
